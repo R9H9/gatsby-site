@@ -52,7 +52,7 @@ const NotFoundPage = () => {
           </>
         ) : null}
         <br />
-        <Link to="/">Return to index</Link>.
+        <Link to="/">🏠</Link>
       </p>
     </main>
   )
