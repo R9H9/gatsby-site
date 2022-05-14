@@ -85,7 +85,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Index</title>
       <h1 style={headingStyles}>
-        Welcome!
+        Welcome
       </h1>
         <p style={paragraphStyles}>Welcome to <a href="/">A Gatsby Site</a>!</p>
       <ul style={listStyles}>
